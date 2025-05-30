@@ -12,7 +12,7 @@
 ## GymBro Mobile App (.NET MAUI)
 ![mobile_gymbro_demo](https://github.com/user-attachments/assets/4abda920-b27a-4e7c-a734-e6c6c1429a54)
 
-## AutoChronicle Desktop App(WPF)
+## AutoChronicle Desktop App (WPF)
 ![desktop_autochronicle_demo](https://github.com/user-attachments/assets/3a3891d0-ff9a-4da6-acc9-acfb31b0107a)
 
 ## Anitic Emulator Keeper Desktop App (WPF)
